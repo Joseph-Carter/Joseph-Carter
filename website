@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Introduction</title>
+<style type="text/css">
+body
+{
+background-color: black;
+color: blue;
+}
+h1
+{
+text-align: center;
+color: red;
+}
+h2
+{
+text-align: center;
+}
+li
+{
+color: White;
+}
+img
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+table 
+      {
+       border: solid thick;
+      }
+td
+      {
+       border: solid thin;
+      }
+</style>
+</head>
+<body>
+<h1>Who is Joseph Carter?</h1>
+<h2>Computer Programming/Wed Development</h2>
+<img src="https://pbs.twimg.com/profile_images/959712703697833985/Wc3vNPkk_400x400.jpg"><br><br>
+<h2>There isn't much to know about me, I was born and raised in New York. I grew up in the Bronx, I went to school and played football mostly stayed in the house to read and play video games. As I got older I became fond of traveling, I've been traveling at a young age - since I was four years old- I was in a program called Fresh Air Fund which basically brought kids out of harsh enviorments and sent them to various families in different states to spend the summer with. I loved to read about the cosmos and its many phenomenom, everything about it left me in awe so I would always read and watch shows that involved anything that delt with the universe.</h2>
+<h2>This is my first semester in college, I graduated high school last year but I didn't go straight to college. I wanted to take a year off school becasue I was not very fond of it, and high school was dull in my opinion. Over some of my summers when I wasn't traveling, I would be working - this was when I was age thirteen and up- I worked in a middle school as a teacher assistant, a pre-school as a janitor,a retail store as a sales associate, and in a college as a junioe mentor/tutor.</h2>
+<h2>I have two goals and plans for/after BCC. My goal is to graduate from BCC with my degree in Computer Programming/Web Development and the plan is to finish my EMT class after my second semester to so I can work as an EMT while I'm in college taking my computer classes. I chose to come to BCC because it felt like the route to go, I chose this major becasue programming was something that was always interesting to me plus the various type of hacking movies I would see.</h2>
+<h2>In one of the two time management articles I read it spoke about how setting goals helps you time manage, you'll know when you want to have something completed which would help you schedule according to reaching that goal. In the second article I went over that spoke about time management it said that time prioritizing important as well and not know how to properly prioritize can be overwhelming but there are tools that we can use to help with that. In the learning style part I am an active learner, I learn by doing but it also said that active listeners should take the time to sit back and anaylize the situation before acting. in the second article of learning styles it tells me that I am also a social learner, I like to work with groups at times but I am also part solitary which means you like to learn by yourself and do self-study.</h2>
+<h1>Top three things I learned about myself reading over the articles and taking the quiz</h1>
+<ol>
+<li><h1>I am an active learner</h1></li>
+<li><h1>I am also a social learner and can be a solitary learner as well.</h1></li>
+<li><h1>Be more analytic.</h1></li>
+<li><h1>In time management setting goals is important.</h1></li>
+<li><h1>In time management knowing how to prioritize is important.</h1></li>
+<table>
+<tr>
+<td>A favorite quote by Albert Einstein</td>
+<td><img src="https://proverbsway.files.wordpress.com/2013/06/albert-einstein-inspiration-quote-truth-favim-com-664881-jpg.png" /></td>
+</tr>
+</body>
+</html>
